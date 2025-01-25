@@ -1,6 +1,6 @@
 from types import SimpleNamespace
 
-config = SimpleNamespace(
+config = SimpleNamespace(waled
     timeout_handler=None,
     stopped_handler=None,
     throw_exceptions=True,
